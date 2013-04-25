@@ -6855,7 +6855,7 @@ msgstr "Cost: %s"
 #: templates/loop/add-to-cart.php:17 templates/loop/add-to-cart.php:41
 #: templates/loop/add-to-cart.php:50
 msgid "Read More"
-msgstr "Citește mai mult"
+msgstr "Detalii"
 
 # @ woocommerce
 #: templates/loop/add-to-cart.php:33
